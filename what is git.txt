@@ -1,0 +1,33 @@
+log in one line :
+
+git log --oneline
+git commit -a -m "msg"     	// add everything
+
+git status -s			// modified in short
+
+
+
+
+___
+from web
+
+echo "# youtube.demo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/codemantravivek/youtube.demo.git
+git push -u origin master
+
+git remote add origin https://github.com/codemantravivek/youtube.demo.git
+git push -u origin master
+
+
+___
+create ssh folder
+
+
+___
+git remote add origin "name of repository"
+
+git push origin master  	// loadup
+
